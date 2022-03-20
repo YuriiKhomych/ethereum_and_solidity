@@ -1,5 +1,5 @@
 # Ethereum and solidity course
-1. For successfully run deploy.js script add such NODE PARAMETERS:
+1. For successfully run deploy.js scripts add such NODE PARAMETERS:
 ```
 --openssl-legacy-provider
 ```
